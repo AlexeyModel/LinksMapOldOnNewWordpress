@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LinksMapOldOnNewWordpress": {
+      "commandName": "Project",
+      "commandLineArgs": "-do http://9zzz.ru -dn https://mq2.ru -po \"d:\\Downloads\\9zzz-WordPress.2023-11-05.xml\" -pn \"d:\\Downloads\\nculture-WordPress.2023-11-05.xml\""
+    }
+  }
+}
